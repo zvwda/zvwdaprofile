@@ -204,7 +204,14 @@ margin: 20px;
 .footer-title span {
     color: #3a6cf4;
 }
-
+.linkphone{
+    text-decoration: none;
+    color: inherit;
+}
+.maillink{
+    text-decoration: none;
+    color: inherit;
+}
 .footer .social-icons a{
     font-size: 1.3em;
     padding: 0 12px 0 0;
